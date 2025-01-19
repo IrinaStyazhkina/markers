@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Markers</string>
+    <string name="create_point_title">Create new point</string>
+    <string name="edit_point_title">Edit point</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="map">Map</string>
+    <string name="points_list">Points list</string>
+</resources>
